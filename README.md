@@ -11,6 +11,4 @@ The shader is plug-and-play, and can be added to any scene by simply adding it a
 
 ![materialballs_compressed](https://github.com/Samuwhale/UE5-Painterly-Shader/assets/22395533/f6ed1391-cc29-4870-aee8-2bba0893fbc0)
 
-
-More preview images can be found on my portfolio, found [here](https://www.spithorst.net/projects/painterly-shader).
-
+Preview videos can be found under the 'Preview Media' folder of this repository, or on my portfolio [here](https://www.spithorst.net/projects/painterly-shader).
